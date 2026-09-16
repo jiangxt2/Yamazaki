@@ -11,7 +11,7 @@ or later implementations are still welcome.
 ## Reporting a Vulnerability
 
 Use GitHub's
-[private vulnerability reporting](https://github.com/jiangxt2/Yamazaki-incubator/security/advisories/new)
+[private vulnerability reporting](https://github.com/jiangxt2/Yamazaki/security/advisories/new)
 to contact the maintainers securely.
 
 Do not disclose vulnerability details, credentials, production data, internal
