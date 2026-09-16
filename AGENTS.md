@@ -1,6 +1,6 @@
 # Yamazaki Agent Guidelines
 
-Yamazaki is an early-stage, public incubation project for an evidence-driven
+Yamazaki is an early-stage public project for an evidence-driven
 AIOps governance control plane for ClickHouse and Apache Doris. These
 instructions apply to the entire repository unless a more specific directory
 guide says otherwise.
@@ -34,7 +34,7 @@ Before doing any work in this repository:
 - Documentation must distinguish `Planned`, `Experimental`, `Validated`, and
   `Supported` claims. Never describe a proposal or experiment as an implemented
   or production-ready capability.
-- Keep public incubation in this repository separate from any possible future
+- Keep this public project separate from any possible future
   upstream or final project destination.
 
 ## Architecture and Safety Invariants

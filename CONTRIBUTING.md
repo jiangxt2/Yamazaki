@@ -1,7 +1,7 @@
 # Contributing to Yamazaki
 
-Thank you for contributing to Yamazaki. The project is in early public
-incubation and welcomes focused contributions to design, documentation,
+Thank you for contributing to Yamazaki. The project is an early-stage public
+project and welcomes focused contributions to design, documentation,
 testing, engine integration, diagnosis, and safety.
 
 Proposals and experiments must identify their status clearly. A merged change

@@ -1,6 +1,6 @@
 # Yamazaki Documentation
 
-Yamazaki is in early public incubation. These documents distinguish the
+Yamazaki is an early-stage public project. These documents distinguish the
 validated internal POC from planned and unsupported product capabilities.
 
 Use the following status terms consistently:

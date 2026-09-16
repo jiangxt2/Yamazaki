@@ -2,8 +2,9 @@
 
 ## Supported Versions
 
-Yamazaki has no released or supported production versions. The repository is in
-early public incubation and currently contains no runnable product.
+Yamazaki has no released or supported production versions. The project is an
+early-stage public project with a validated internal, controlled-network
+read-only POC and no supported production deployment.
 
 Security reports about repository configuration, documentation, future design,
 or later implementations are still welcome.
